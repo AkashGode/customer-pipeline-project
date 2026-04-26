@@ -1,4 +1,4 @@
-# Backend Developer Technical Assessment
+
 
 A 3-service data pipeline using Flask, FastAPI, PostgreSQL, and Docker.
 
